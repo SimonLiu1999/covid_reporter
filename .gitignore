@@ -1,0 +1,8 @@
+/.idea
+*.ini
+/build
+/dist
+*.spec
+pack.txt
+__pycache__
+*.bat
